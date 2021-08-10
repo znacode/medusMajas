@@ -105,6 +105,7 @@ li {
 
 .cover-text {
     color: rgb(255, 255, 255);
+    font-size: 36px;
 }
 
 /* ================ Par mums ===================== */
@@ -482,7 +483,7 @@ footer {
     }
 }
 
-@media (max-width: 576px) {
+@media (max-width: 509px) {
 
     .cover-container {
         width: 100%;
@@ -502,4 +503,77 @@ footer {
         text-align: center;
         margin: 18px;
     }
+}
+
+@media (max-width: 471px) {
+
+    .cover-text {
+        font-size: 30px;
+    }
+
+    .cover-virsraksts {
+        font-size: 50px;
+    }
+}
+
+@media (max-width: 371px) {
+
+    .nav-img {
+        position: absolute;
+        left: 10px;
+    }
+
+    #cover-section {
+        padding-top: 100px;
+        padding-bottom: 60px;
+    }
+
+    .cover-text {
+        font-size: 25px;
+    }
+
+    .cover-virsraksts {
+        font-size: 40px;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .parMums-container h3 {
+        font-size: 40px;
+    }
+
+    .parMums-display-container h1 {
+        font-size: 28px;
+    }
+
+    .parMums-display-container {
+        margin: 0;
+        width: 100%;
+    }
+
+    .parMums-container p {
+        font-size: 25px;
+    }
+
+    .work-container {
+        padding: 0 20px;
+    }
+
+    .piedavajuma-virsraksts {
+        font-size: 30px;
+    }
+
+    .work-item__icon>img {
+        max-width: 300px;
+    }
+
+    #piedavajumu-section {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .virsraksts {
+        font-size: 40px;
+    }
+
 }
