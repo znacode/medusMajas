@@ -529,21 +529,21 @@ footer {
     }
 
     .cover-text {
-        font-size: 23px;
+        font-size: 18px;
     }
 
     .cover-virsraksts {
-        font-size: 35px;
+        font-size: 30px;
         margin-left: 0;
         margin-right: 0;
     }
 
     .parMums-container h3 {
-        font-size: 40px;
+        font-size: 36px;
     }
 
     .parMums-display-container h1 {
-        font-size: 28px;
+        font-size: 25px;
     }
 
     .parMums-display-container {
@@ -552,7 +552,7 @@ footer {
     }
 
     .parMums-container p {
-        font-size: 25px;
+        font-size: 20px;
     }
 
     .work-container {
