@@ -56,7 +56,6 @@ let speed = 50;
 function typeWriter() {
     if (i < txt.length) {
         document.querySelector('.cover-text').textContent += txt.charAt(i);
-        document.querySelector('.cover-text').style.fontSize = '36px';
         i++;
         setTimeout(typeWriter, speed);
     }
