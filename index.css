@@ -529,11 +529,11 @@ footer {
     }
 
     .cover-text {
-        font-size: 25px;
+        font-size: 23px;
     }
 
     .cover-virsraksts {
-        font-size: 40px;
+        font-size: 35px;
         margin-left: 0;
         margin-right: 0;
     }
@@ -574,6 +574,10 @@ footer {
 
     .virsraksts {
         font-size: 40px;
+    }
+
+    .button {
+        width: 100%;
     }
 
 }
