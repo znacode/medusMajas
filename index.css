@@ -22,7 +22,7 @@ body {
     width: 80px;
     height: 60px;
     border-radius: 50%;
-    /* border: 1px solid white; */
+    margin-left: 100px;
 }
 
 nav img {
@@ -54,11 +54,12 @@ nav {
 ul {
     float: right;
     margin-top: 25px;
+    margin-right: 100px;
 }
 
 li {
     display: inline;
-    margin-right: 50px;
+    margin-right: 20px;
 }
 
 .navbar-brand {
